@@ -1,0 +1,2 @@
+# proyectoali
+inicializacion_del_proyecto
